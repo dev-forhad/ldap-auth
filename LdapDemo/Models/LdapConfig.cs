@@ -9,5 +9,7 @@ namespace LdapDemo.Models
     {
         public string Path { get; set; }
         public string UserDomainName { get; set; }
+        public string UserName { get; set; }
+        public string Password { get; set; }
     }
 }

@@ -28,5 +28,12 @@ namespace LdapDemo.Controllers
                 return Unauthorized();
             }
         }
+
+
+        [HttpGet("get-all")]
+        public async Task<IActionResult> GetAll()
+        {
+            return Ok(authService.GetADUsers());
+        }
     }
 }
