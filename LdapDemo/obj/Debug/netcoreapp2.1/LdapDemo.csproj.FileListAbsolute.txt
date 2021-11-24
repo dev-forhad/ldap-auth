@@ -1,0 +1,14 @@
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\bin\Debug\netcoreapp2.1\LdapDemo.deps.json
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\bin\Debug\netcoreapp2.1\LdapDemo.runtimeconfig.json
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\bin\Debug\netcoreapp2.1\LdapDemo.runtimeconfig.dev.json
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\bin\Debug\netcoreapp2.1\LdapDemo.dll
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.csprojAssemblyReference.cache
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.csproj.CoreCompileInputs.cache
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.RazorAssemblyInfo.cache
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.RazorAssemblyInfo.cs
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.AssemblyInfoInputs.cache
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.AssemblyInfo.cs
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.RazorTargetAssemblyInfo.cache
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\bin\Debug\netcoreapp2.1\LdapDemo.pdb
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.dll
+G:\Net Core Project\ActiveDirectory\LDAP\LdapDemo\obj\Debug\netcoreapp2.1\LdapDemo.pdb
